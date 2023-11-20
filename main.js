@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
       window.location.href = 'index1.html';
     });
   });
-  const alphabetImages = ['a.jpg', 'b.jpg']; // Add more images as needed
+  const alphabetImages = ['a.jpg', 'b.jpg','c.jpg','d.jpg','e.jpg','f.jpg','g.jpg','h.jpg','I.jpg','j.jpg','k.jpg','l.jpg','m.jpg','n.jpg','o.jpg','p.jpg','q.jpg','r.jpg','s.jpg','t.jpg','u.jpg','v.jpg','w.jpg','x.jpg','y.jpg','z.jpg']; // Add more images as needed
 let currentImageIndex = 0;
 
 document.getElementById('nextBtn').addEventListener('click', showNextImage);
